@@ -1,8 +1,8 @@
-## 👋 Hi there, I’m Matt Espinoza
+## 👋 Hi there, I’m Charles Nyabeze
 
-- 🦄 I’m currently the co-founder of Agora (backed by $DESO)
 - 🧩 I'm currently learning Full-Stack Development
-- 🌱 I'm a CS Major at York University
+- 🌱 I'm doing Full-Stack Web Development at Carleton University
+-  🦄 I’m currently the co-founder of Agora (backed by $DESO)
 
 <br />
 
@@ -13,6 +13,8 @@
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
+<br />
+<br />
 # I also love using:
 ```
 JavaScript
