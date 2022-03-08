@@ -28,8 +28,6 @@ MERN stack
 RESTful API
 Express.js
 ```
-
-<br />
 <br />
 
 ## 💎 Let's Get in Contact
