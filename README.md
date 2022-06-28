@@ -19,19 +19,6 @@ src="https://user-images.githubusercontent.com/90402466/176094484-f27460b9-45c8-
 
 <br />
 
-### I also love using:
-
-```
-JavaScript
-JQuery
-MySQL
-JEST
-MongoDB
-Multer/Cloundinary
-MERN stack
-RESTful API
-Express.js
-```
 <br />
 
 ## 💎 Let's Get in Contact
