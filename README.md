@@ -10,7 +10,7 @@
 <img align="left" alt="Solidity" width="26px"
 src="https://user-images.githubusercontent.com/90402466/176094484-f27460b9-45c8-4a54-9e00-46a62b5d2dc9.png" />
 <img align="left" alt="TS" width="26px"
-src="https://user-images.githubusercontent.com/90402466/176095911-3f011dd1-6fee-4d93-a773-68a2d1b8005f.png" />
+src="https://user-images.githubusercontent.com/90402466/176096903-f76b67cd-ac0e-45bc-a8a0-aa85a46286e5.png" />
 <img align="left" alt="JS" width="26px"
 src="https://user-images.githubusercontent.com/90402466/176095911-3f011dd1-6fee-4d93-a773-68a2d1b8005f.png" />
 <img align="left" alt="PYTH" width="26px"
