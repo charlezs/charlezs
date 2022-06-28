@@ -29,7 +29,7 @@ src="https://user-images.githubusercontent.com/90402466/176096696-744f743f-b240-
 <br />
 
 ## 💎 Let's Get in Contact
-- 👨🏻‍💻 Website: https://charlesnyabeze.com
+- 👨🏻‍💻 Twitter: [0xCharles1](https://twitter.com/0xCharles1)
 - 📬 Email: charlesnnyabze@gmail.com
 - 🥇 LinkedIn: https://linkedin.com/in/charles-nyabeze
 
