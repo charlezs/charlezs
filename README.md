@@ -3,7 +3,9 @@
 - 🧩 I'm currently learning web3 development and CS.
 - 🌱 I'm trading and learning my way to be a millionare.
 - 🦄 built AgoraLabs, my VC backed web3 startup.
+
 <br />
+
 ## 👨🏾‍💻 Languages and Tools
 <img align="left" alt="Solidity" width="26px"
 src="https://user-images.githubusercontent.com/90402466/176094484-f27460b9-45c8-4a54-9e00-46a62b5d2dc9.png" />
@@ -21,6 +23,7 @@ src="https://user-images.githubusercontent.com/90402466/176096539-e66ccd65-7fb5-
 src="https://user-images.githubusercontent.com/90402466/176096696-744f743f-b240-4df6-960f-cd7c38ad8ed4.png" />
 <br />
 <br />
+
 ## 💎 Let's Get in Contact
 - 👨🏻‍💻 Twitter: [0xCharles1](https://twitter.com/0xCharles1)
 - 📬 Email: charlesnnyabze@gmail.com
