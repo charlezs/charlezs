@@ -3,7 +3,6 @@
 - 🧩 I'm currently learning web3 development and CS.
 - 🌱 I'm trading and learning my way to be a millionare.
 - 🦄 Built AgoraLabs, my VC backed web3 startup.
-<br />
 
 ## 👨🏾‍💻 Languages I enjoy
 <img align="left" alt="Solidity" width="26px"
