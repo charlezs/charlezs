@@ -35,5 +35,3 @@ src="https://user-images.githubusercontent.com/90402466/176096696-744f743f-b240-
 
 <br />
 <br />
-
-![Charles's GitHub stats](https://github-readme-stats.vercel.app/api?username=charles-nyabeze&count_private=true&theme=tokyonight)
