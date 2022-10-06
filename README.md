@@ -18,8 +18,7 @@ src="https://user-images.githubusercontent.com/90402466/194282169-7e27aa65-9c08-
 src="https://user-images.githubusercontent.com/90402466/194282263-96e04a43-bb11-4f97-8573-824ed4b489cb.png" />
 
 <img align="left" alt="Next.js" width="26px"
-src="https://user-images.githubusercontent.com/90402466/194282360-909c661a-3f4a-4d85-a478-351ed0b713d7.png
-" />
+src="https://user-images.githubusercontent.com/90402466/194282360-909c661a-3f4a-4d85-a478-351ed0b713d7.png" />
 
 <img align="left" alt="React" width="26px"
 src="https://user-images.githubusercontent.com/90402466/194282469-6e06c91a-fadf-4027-9bff-424c3f9bb711.png" />
