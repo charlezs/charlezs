@@ -1,4 +1,4 @@
-# 👋🏿  Hi, I’m Charles The Third
+# 👋🏿  Hi, I’m Charles the Third
 
 - 🧩 I'm currently learning web3 development and CS.
 - 🌱 I'm trading and learning my way to be a millionare.
