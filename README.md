@@ -6,7 +6,7 @@
 
 ## 👨🏾‍💻 My weapons of choice:
 - ChakraUI
-- Prisma
+- TS
 - MongoDB
 - TypeScript
 - Next.js
