@@ -1,6 +1,6 @@
 # 👋🏿  Hi, I’m Charles the Third
 
-## TLDR
+## ⌛ TLDR
 - acq. founder
 - dev @ Shield (YC/a16z)
 - HF Trader
